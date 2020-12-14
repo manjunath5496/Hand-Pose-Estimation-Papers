@@ -487,79 +487,83 @@ A challenging new dataset for single-image hand pose estimation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(39).pdf" style="text-decoration:none;">3D Hand Pose Regression with
 Variants of Decision Forests</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(40).pdf" style="text-decoration:none;">H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(41).pdf" style="text-decoration:none;">HandyNet: A One-stop Solution to Detect, Segment, Localize and Analyze Driver Hands</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(42).pdf" style="text-decoration:none;">Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(41).pdf" style="text-decoration:none;">Cross-modal Variational Alignment of Latent Spaces</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(42).pdf" style="text-decoration:none;">Real Time Hand Pose Estimation for Human Computer Interaction</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(43).pdf" style="text-decoration:none;">Human Action Recognition and Prediction: A Survey</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(44).pdf" style="text-decoration:none;">Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(45).pdf" style="text-decoration:none;">3D Human Action Recognition with Siamese-LSTM Based Deep Metric Learning</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(43).pdf" style="text-decoration:none;">Human Segmentation, Pose
+Recovery and Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(44).pdf" style="text-decoration:none;">xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(45).pdf" style="text-decoration:none;">Real-time Pose and Shape Reconstruction of Two Interacting Hands With a Single Depth Camera</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(46).pdf" style="text-decoration:none;">3D Hand Pose Estimation using
-Simulation and Partial-Supervision with a Shared Latent Space</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(46).pdf" style="text-decoration:none;">Hand Pose Estimation via Latent 2.5D Heatmap Regression</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(47).pdf" style="text-decoration:none;">DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(48).pdf" style="text-decoration:none;">Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(47).pdf" style="text-decoration:none;">Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(48).pdf" style="text-decoration:none;">Pose-aware Multi-level Feature Network for Human Object Interaction Detection: Supplementary Material</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(49).pdf" style="text-decoration:none;">Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(49).pdf" style="text-decoration:none;">Pose-aware Multi-level Feature Network for Human Object Interaction Detection</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(50).pdf" style="text-decoration:none;">Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(51).pdf" style="text-decoration:none;">Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(52).pdf" style="text-decoration:none;">Explicit Spatiotemporal Joint Relation Learning for Tracking Human Pose</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(50).pdf" style="text-decoration:none;">Self-supervised 3D hand pose estimation through training by fitting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(51).pdf" style="text-decoration:none;">Distill Knowledge from NRSfM forWeakly Supervised 3D Pose Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(52).pdf" style="text-decoration:none;">Not All Parts Are Created Equal:
+3D Pose Estimation by Modeling Bi-directional Dependencies of Body Parts</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(53).pdf" style="text-decoration:none;">RGB-based 3D Hand Pose Estimation
-via Privileged Learning with Depth Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(53).pdf" style="text-decoration:none;">Not All Parts Are Created Equal:
+3D Pose Estimation by Modeling Bi-directional Dependencies of Body Parts – Supplementary Material</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(54).pdf" style="text-decoration:none;">3D human pose estimation in video with temporal convolutions and semi-supervised training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(54).pdf" style="text-decoration:none;">Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(55).pdf" style="text-decoration:none;">HUMBI: A Large Multiview Dataset of Human Body Expressions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(55).pdf" style="text-decoration:none;">SRHandNet: Real-time 2D Hand Pose
+Estimation with Simultaneous Region Localization</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(56).pdf" style="text-decoration:none;">CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(56).pdf" style="text-decoration:none;">Rule Of Thumb: Deep derotation for improved fingertip detection</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(57).pdf" style="text-decoration:none;">Monocular Total Capture: Posing Face, Body, and Hands in the Wild</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(58).pdf" style="text-decoration:none;">Learning 3D Human Dynamics from Video</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(59).pdf" style="text-decoration:none;">Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(58).pdf" style="text-decoration:none;">HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(59).pdf" style="text-decoration:none;">A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(60).pdf" style="text-decoration:none;">Unsupervised Feature Learning of Human Actions as Trajectories in Pose Embedding Manifold </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(60).pdf" style="text-decoration:none;">DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(61).pdf" style="text-decoration:none;">PoseFix: Model-agnostic General Human Pose Refinement Network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(61).pdf" style="text-decoration:none;">Efficient Hand Pose Estimation from a Single Depth Image</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(62).pdf" style="text-decoration:none;">Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition with Multimodal Training</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(62).pdf" style="text-decoration:none;">Aligning Latent Spaces for 3D Hand Pose Estimation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(63).pdf" style="text-decoration:none;">Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(63).pdf" style="text-decoration:none;">Aligning Latent Spaces for 3D Hand Pose Estimation- Supplementary Material</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(64).pdf" style="text-decoration:none;">Learning to Recognize 3D Human Action from A New Skeleton-based Representation Using Deep Convolutional Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(64).pdf" style="text-decoration:none;">Disentangling Latent Hands for Image Synthesis and Pose Estimation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(65).pdf" style="text-decoration:none;">SMPLR: Deep SMPL reverse for 3D human pose and shape recovery</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(65).pdf" style="text-decoration:none;">3D Hand Pose Estimation Using
+Convolutional Neural Networks</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(66).pdf" style="text-decoration:none;">Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(66).pdf" style="text-decoration:none;">Realtime and Robust Hand Tracking from Depth</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(67).pdf" style="text-decoration:none;">Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(67).pdf" style="text-decoration:none;">HBE: Hand Branch Ensemble Network for Real-time 3D Hand Pose Estimation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(68).pdf" style="text-decoration:none;">Semantic Image Networks for Human Action Recognition</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(68).pdf" style="text-decoration:none;">Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(69).pdf" style="text-decoration:none;">3D Hand Shape and Pose from Images in the Wild</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(69).pdf" style="text-decoration:none;">Ego-Pose Estimation and Forecasting as Real-Time PD Control</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(70).pdf" style="text-decoration:none;">Deep High-Resolution Representation Learning for Human Pose Estimation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(70).pdf" style="text-decoration:none;">Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(71).pdf" style="text-decoration:none;">End-to-end Hand Mesh Recovery from a Monocular RGB Image</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(71).pdf" style="text-decoration:none;">End-to-end Hand Mesh Recovery from a Monocular RGB Image - Supplementary Material</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(72).pdf" style="text-decoration:none;">RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(72).pdf" style="text-decoration:none;">End-to-end Hand Mesh Recovery from a Monocular RGB Image</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(73).pdf" style="text-decoration:none;">Self-Supervised Learning of 3D Human Pose using Multi-view Geometry</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(74).pdf" style="text-decoration:none;">Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(75).pdf" style="text-decoration:none;">Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(76).pdf" style="text-decoration:none;">PifPaf: Composite Fields for Human Pose Estimation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(73).pdf" style="text-decoration:none;">Through-Wall Human Mesh Recovery Using Radio Signals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(74).pdf" style="text-decoration:none;">Hand-3d-Studio: A New Multi-View System for 3d Hand Reconstruction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(75).pdf" style="text-decoration:none;">Supplementary Material for
+DeepHuman: 3D Human Reconstruction from a Single Image</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(76).pdf" style="text-decoration:none;">DeepHuman: 3D Human Reconstruction From a Single Image</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(77).pdf" style="text-decoration:none;">Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(77).pdf" style="text-decoration:none;">HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(78).pdf" style="text-decoration:none;">Generalized Feedback Loop for
-Joint Hand-Object Pose Estimation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(79).pdf" style="text-decoration:none;">Dense Intrinsic Appearance Flow for Human Pose Transfer</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(78).pdf" style="text-decoration:none;">FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hv(79).pdf" style="text-decoration:none;">Supplemental Material for:
+FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images</a></li>
 
  
  
