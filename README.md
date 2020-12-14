@@ -281,8 +281,7 @@ Human Grasping of Objects</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(149).pdf" style="text-decoration:none;">Occlusion-Aware Networks for 3D Human Pose Estimation in Video</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(150).pdf" style="text-decoration:none;">Training a Feedback Loop for Hand Pose Estimation</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(151).pdf" style="text-decoration:none;">Accurate, Robust, and Flexible Realtime Hand Tracking </a></li>
 
@@ -302,7 +301,7 @@ using an operation log</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(160).pdf" style="text-decoration:none;">GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(161).pdf" style="text-decoration:none;">Hand Pose Estimation: A Survey</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(162).pdf" style="text-decoration:none;">User-Specific Hand Modeling from Monocular Depth Sequences</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(163).pdf" style="text-decoration:none;">Latent Regression Forest: Structured Estimation of 3D Articulated Hand Posture</a></li> 
@@ -402,7 +401,7 @@ Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Moti
  <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(212).pdf" style="text-decoration:none;">Learning to Navigate the Energy Landscape</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(213).pdf" style="text-decoration:none;">Learning Trajectory Dependencies for Human Motion Prediction</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(214).pdf" style="text-decoration:none;">A Differential Approach to Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(214).pdf" style="text-decoration:none;">Vision-based hand pose estimation: A review</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Hand-Pose-Estimation-Papers/blob/master/hp(215).pdf" style="text-decoration:none;">Human Segmentation, Pose
 Estimation and Applications</a></li>
 
